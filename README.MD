@@ -7,7 +7,7 @@ Temas abordados:
 - Método array.length para descobrir o número de elementos
 - Uso do 'for' para iteração de elementos do array
 - Imprimir direto na tela com o document.write(*) diretamente através do JavaScript
-- Manipulação de imagens com <img src = *>
+- Manipulação de imagens com `<img src = *>`
 
 Link para o projeto no CodePen: https://codepen.io/iuri0072/pen/BaZJMQb
 
